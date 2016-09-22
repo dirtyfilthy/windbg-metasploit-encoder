@@ -18,7 +18,7 @@ class MetasploitModule < Msf::Encoder
         cdb.exe -cf calc.wds -o notepad.exe
       },
       'Author'           => 'Caleb Anderson',
-      'Arch'             => ARCH_ALL,
+      'Arch'             => [ ARCH_X86, ARCH_X86_64 ],
       'Platform'         => 'win',
       'License'          => BSD_LICENSE,
       'EncoderType'      => Msf::Encoder::Type::Raw)
