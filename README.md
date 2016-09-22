@@ -9,7 +9,7 @@ your shellcode in another process.
 
 ** INSTALLATION **
 
-windbg.rb to same path in your metasploit install
+cp windbg.rb to same path in your metasploit install
 
 ** USAGE **
 
