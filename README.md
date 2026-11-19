@@ -1,6 +1,8 @@
 Windbg Script Encoder For Metasploit
 ======================================
 
+**Status:** not actively developed. I'm not fixing bugs or adding features, but I'll look at pull requests when I can. Forks welcome.
+
 From an idea at http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
 
 Bypass various kinds of protections, AV, application whitelisting etc by running your 
